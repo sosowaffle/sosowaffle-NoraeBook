@@ -17,10 +17,10 @@ let myImage = document.querySelector('img');
 
 myImage.onclick = function() {
     let mySrc = myImage.getAttribute('src');
-    if(mySrc === 'https://panels.twitch.tv/panel-666973030-image-1c9e4a69-a54a-4a95-a07d-1a113ec0a0d1') {
-    myImage.setAttribute ('src','https://static-cdn.jtvnw.net/jtv_user_pictures/b3125729-52b2-4b7a-9774-bdfa54ccd493-profile_image-70x70.png');
+    if(mySrc === 'https://nng-phinf.pstatic.net/MjAyNDA0MjNfMjky/MDAxNzEzODQ0NzQzMTEw.DxQGcgq986kZ2PSh1zynfmneA6-HoXM9gJShOrQdwQAg.BKJpbMCgDqfdybcmZEGkalaS4f-_ssTdnh9V82Aw9Q0g.PNG/9A718816-EB80-4A30-920C-A7A9DA55D56A-1713844732.png?type=f120_120_na') {
+    myImage.setAttribute ('src','https://nng-phinf.pstatic.net/MjAyNDA0MjNfMjky/MDAxNzEzODQ0NzQzMTEw.DxQGcgq986kZ2PSh1zynfmneA6-HoXM9gJShOrQdwQAg.BKJpbMCgDqfdybcmZEGkalaS4f-_ssTdnh9V82Aw9Q0g.PNG/9A718816-EB80-4A30-920C-A7A9DA55D56A-1713844732.png?type=f120_120_na');
     } else {
-    myImage.setAttribute ('src','https://panels.twitch.tv/panel-666973030-image-1c9e4a69-a54a-4a95-a07d-1a113ec0a0d1');
+    myImage.setAttribute ('src','https://nng-phinf.pstatic.net/MjAyNDA0MjNfMjky/MDAxNzEzODQ0NzQzMTEw.DxQGcgq986kZ2PSh1zynfmneA6-HoXM9gJShOrQdwQAg.BKJpbMCgDqfdybcmZEGkalaS4f-_ssTdnh9V82Aw9Q0g.PNG/9A718816-EB80-4A30-920C-A7A9DA55D56A-1713844732.png?type=f120_120_na');
     }
 }
 
