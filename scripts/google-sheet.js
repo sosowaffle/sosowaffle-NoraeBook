@@ -4,7 +4,7 @@ var genre = document.querySelector('genre');
 var category = document.querySelector('category');
 var random = document.querySelector('random');
 
-let myKey = "AKfycbwMs1amZ4zSrywT3da3o9rwIOBNECDugnrT0Sv-t14Awlqu-IOtomPSrpwmnyCVR_Ob"; // 스프레드시트 KEY
+let myKey = "1eBstXVDjlqx8QGvK42RKEUN-Z1tzGoLgEagB5F6l27E"; // 스프레드시트 KEY
 
 let noCover = `https://i.namu.wiki/i/66evJzSR1h2ooOwjrx9RPaxSnWRvSsecGuzmXAymJ5RwfjxnUUcjcT-QNwLnxQK-uc6IMqQKoXeZOa9NNWBbOnwuToNshqcgwUbJmfqI-RA6HW6-4VOpadDnksFmHHYvYpqLTWUPrF8W87_3PjXlww.webp`;
 
